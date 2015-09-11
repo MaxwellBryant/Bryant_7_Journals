@@ -1,0 +1,4 @@
+1. Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm. (Wikipedia)
+
+2. We will use pseudocode for creating text and shape with basic commands to learn more about advanced code with Java.
+
