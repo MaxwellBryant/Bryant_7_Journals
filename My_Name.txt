@@ -1,0 +1,40 @@
+﻿Begin:
+	look up
+	draw forward 100px
+	look right
+	draw right 10px
+	turn 45 degrees
+	draw 15px
+	turn 145 degrees
+	draw 15px
+	look right
+	draw right 10px
+	look down
+	draw down 100px
+
+	look right
+	move right 20px
+	look up
+	turn 15 degrees
+	draw 100px
+	turn 115 degrees
+	draw 100px
+	look up
+	turn 15 degrees
+	draw 50px
+	look left
+	draw left 75px
+
+	look right
+	move 150px
+	look down
+	move down 50px
+	turn 30 degrees
+	draw 100px
+	turn around
+	draw 50px
+	turn 30 degrees
+	draw 50px
+	turn around
+	draw 100px
+End:
