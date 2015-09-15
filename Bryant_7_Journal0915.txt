@@ -1,0 +1,3 @@
+IDE or Integrated Drive Electronics, is a standard electronic interface used between a computer motherboard's data paths or bus and the computer's disk storage devices. 
+(techtarget.com) An IDE is good for maximizing programmer productivity by providing tight-knit components with similar user interfaces. (Wikipedia)
+
