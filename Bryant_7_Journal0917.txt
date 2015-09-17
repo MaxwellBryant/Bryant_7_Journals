@@ -1,0 +1,7 @@
+The five Java data type are:
+- Byte: The byte data type is an 8-bit signed two's complement integer.
+- Short, Long, Double: 16-bit, 32-bit, and 64-bit signed values that vary from -32, 768 to 32, 767.
+- Int: Has a minimum value of 0 and a maximum value of 2 to the 64th power -1.
+- Float: A single-precision 32-bit IEEE 754 floating point.
+- Boolean: Two possible values, True and False.
+- Char: A single 16-bit Unicode character.
