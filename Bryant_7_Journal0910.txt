@@ -1,0 +1,3 @@
+1. We created a repository in github yesterday through the terminal to store journals. Basically, an overcomplicated way to submit a journal to this website.
+
+2. First, you must get into your files/directory. Secondly, you create the file through pico. Then, you git add, git commit, and git push. Finally, if you look in the github website, you will find the created file there.
