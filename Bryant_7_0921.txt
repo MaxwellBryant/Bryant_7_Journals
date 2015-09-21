@@ -1,0 +1,5 @@
+1. No, I have not recieved credit for all of my journals. However, I have fixed that issue today, so I will not have a poor grade.
+
+2. When Mr. Davis looks at the files, he doesn't see the individual users, he sees the big picture with everone's work. Thus, it is important to name your files accordingly.
+
+3. The command to copy in Linux is "Ctrl + K", this will copy a specified line of text. To copy a directory however, you use "cp 'nameof.doc' 'newfile.doc'" and "ls -1 *.doc"
