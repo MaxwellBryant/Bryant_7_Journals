@@ -16,3 +16,13 @@
 16. Apache Licence - A licence developed by Apache Software Foundation.
 17. EULA - End User Licence Agreement; widely used by people.
 18. Creative Commons - A licence that provides the most benefits.
+
+Questions:
+
+1. I have seen this licence before for audio books and for certain free software. This licence is saying that you have the right to publish and redistribute a free piece of software.
+
+2. The author gets the benefits of credit for their piece of work. The user gets to copy and redistribute for no profit.
+
+3. I would use this licence for any piece of free software I want to post but not have anyone sell it for a profit.
+
+4. I would not use this for something that I would want to sell for money.
