@@ -1,0 +1,19 @@
+1. Paid licence - A licence that you pay for; it's pretty self-explanitory.
+
+2. Shareware - A thing of software that is initially free, and is encouraged to be shared.
+
+3. Trialware - Software the can be used for free until a time expires.
+
+4. Ad-ware - This program generates ads on your computer; basically why the internet is the internet.
+
+5. Crippleware - Software that has an important piece removed, encouraging users to pay for the full version.
+
+6. Freemium - A software that describes parts that are free and parts that you pay for.
+
+7. Freeware - A piece of software that is free, but cannot be redistributed.
+
+8. Richard Stallman - Known for the "Free Software Movement", in which he invented GNU, Emacs, and GCC.
+
+9. Lawrence Lessig - This man is the founder of the "Creative Commons" in which you can be free.
+
+10. Eben Moglen - He is the man that visualised the digital rights management program where he explains his views on the digital world.
