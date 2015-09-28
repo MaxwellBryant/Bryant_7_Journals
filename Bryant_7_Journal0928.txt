@@ -1,0 +1,5 @@
+1. You can count in Java by entering this command: for ((i=0; i<10; i++)).
+
+2. You can check if a number is divisable by doing the following command: (i % 2 == 0).
+
+3. You can track a number divisor like this: (i % 2 != 0).
