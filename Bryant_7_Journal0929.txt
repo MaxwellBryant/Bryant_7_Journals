@@ -1,0 +1,4 @@
+1. Methods are the interface an object presents to the outside world. A window for instance would have methods such as open and close.
+Methods are good for sending and displaying messages sent from you to the computer.
+
+2. You can use methods to find primes by printing the count total so you can actually see what you did.
