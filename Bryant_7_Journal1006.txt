@@ -1,0 +1,7 @@
+1. Methods are groups that assign meaning to a base text. EX: static boolean (isDivs2(i)); if(i % 2 == 0).
+
+2. A class is a blueprint from which individual objects are created. EX: class SomeTHING { words, words, words...
+
+3. An instance refers to a specific object of a specific type. EX: Foo foo = new Foo();.
+
+4. A class method is a method that is defined and is a string. EX: Cat myCat = new Cat(); String catColor;.
