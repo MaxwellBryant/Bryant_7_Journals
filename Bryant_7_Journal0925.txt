@@ -1,0 +1,28 @@
+1. Copyright - The exclusive legal right to copy a creative work.
+2. Copyleft - An arrangment whereby software or artistic work may be used.
+3. Fair Use - A legal doctrine that portions of the copyrighted materials may be used without permission.
+4. Free Speech - The right to speak and post freely on the internet!
+5. Free Software - Gives users the right to run the software for educational purposes.
+6. Freeware - Computer software that is available to everyone for free.
+7. Public Domain - The software or things in general that copyrights have been abolished and can be used for free.
+8. File-sharing - The public or private sharing of files from one person to the next.
+9. Piracy - The use of someone else's work without permission.
+10. Plagiarism - Stealing someone else's work.
+11. Infringement - A violation of a law.
+12. Proprietary - One whom owns a piece of work.
+13. Open Source - Code for everyone to copy or manipulate for free.
+14. GNU GPL Licence - The basic licence for a piece of work.
+15. MIT Licence - A free lincence developed by MIT for software.
+16. Apache Licence - A licence developed by Apache Software Foundation.
+17. EULA - End User Licence Agreement; widely used by people.
+18. Creative Commons - A licence that provides the most benefits.
+
+Questions:
+
+1. I have seen this licence before for audio books and for certain free software. This licence is saying that you have the right to publish and redistribute a free piece of software.
+
+2. The author gets the benefits of credit for their piece of work. The user gets to copy and redistribute for no profit.
+
+3. I would use this licence for any piece of free software I want to post but not have anyone sell it for a profit.
+
+4. I would not use this for something that I would want to sell for money.
