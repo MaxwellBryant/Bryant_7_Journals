@@ -1,0 +1,5 @@
+1. A Java class is a spot in the script where something completely new is organized and then brought together to the main program.
+
+2. A Java class for JavaFX might be something like this: public void start(Stage primaryStage) {.
+
+3. A method for a class looks something like this: Group root = new Group().
