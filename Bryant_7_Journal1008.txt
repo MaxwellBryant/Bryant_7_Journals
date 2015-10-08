@@ -1,0 +1,9 @@
+1. My plan for the art project is to make the word "Hi" with rectangles and stroked rectangles.
+
+2. The "fillRect" and the "strokeRect" will be mostly what I use along with some positioning.
+
+3. I would stop a loop by specifing what dimensions it should have with the coordinates.
+
+4. For this project I will not have to use "else if" statements.
+
+5. I would have to find the precise places on a grid to properly align the text I plan to create.
