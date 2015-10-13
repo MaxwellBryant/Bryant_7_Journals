@@ -9,32 +9,35 @@ public class Bryant_7_ChallengeREAL {
 
     public static void main(String[] args) {
         for(int i=0; i<550; i++) {
-            if((isDiv2(i)) & (isDiv3(i)) & (isDiv5(i)) & (isDiv11(i)==false)) {
+            if((isDiv2(i)) & (isDiv3(i)) & (isDiv5(i)) & !(isDiv11(i)) {
                 System.out.println(i + " Team Building");
             }
-            if((isDiv3(i)) & (isDiv5(i)) & (isDiv2(i)==false)) {
+            else if((isDiv3(i)) & (isDiv5(i)) & !(isDiv2(i)) {
                 System.out.println(i + " Old School");
             }
-            if((isDiv2(i)) & (isDiv3(i)) & (isDiv5(i)==false)) {
+            else if((isDiv2(i)) & (isDiv3(i)) & !(isDiv5(i)) {
                 System.out.println(i + " chisme");
             }
-            if((isDiv5(i)) & (isDiv11(i)) & (isDiv2(i)==false)) {
+            else if((isDiv5(i)) & (isDiv11(i)) & !(isDiv2(i)) {
                 System.out.println(i + " Animate this!");
             }
-            if((isDiv3(i)) & (isDiv11(i)) & (isDiv5(i)==false)) {
+            else if((isDiv3(i)) & (isDiv11(i)) & !(isDiv5(i)) {
                 System.out.println(i + " Herr Direktor ");
             }
-            if((isDiv2(i)) & (isDiv11(i)) & (isDiv3(i)==false)) {
+            else if((isDiv2(i)) & (isDiv11(i)) & !(isDiv3(i)) {
                 System.out.println(i + " ninja");
             }
-            if((isDiv5(i)) & (isDiv3(i)==false)) {
+            else if((isDiv5(i)) {
                 System.out.println(i + " Vidal");
             }
-            if((isDiv3(i)) & (isDiv2(i)==false)) { 
+            else if((isDiv3(i)) { 
                 System.out.println(i + " Claughton");
             }
-            if((isDiv2(i)) & (isDiv5(i)==false)) {
+            else if((isDiv2(i)) {
                 System.out.println(i + " Davis");
+            }
+            else
+                System.out.println(i);
             }
         }
     }
