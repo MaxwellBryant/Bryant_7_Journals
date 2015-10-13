@@ -16,13 +16,15 @@ public class Bryant_7_Prime {
      */
     public static void main(String[] args) {
      for(int i=0; i<100; i++){
-        if(i % 2 != 0){
-            if(i % 3 != 0){
-                if(i % 5 != 0){
-                    System.out.println(i +" is Prime");
+         int divisor = 0;
+        for(int p=2; p<100; p++){
+            if(i % p == 0){
+                divisor++;
                 }
             }
-        }
-    }   
-}
+            if(divisor == 0){
+                System.out.println(i + " is Prime")
+            }
+        }   
+     }
 }
