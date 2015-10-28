@@ -1,0 +1,3 @@
+1. No, I would not say that my "game" is truely a game quite yet. I still have to add the guessing part to it, and I need to make it continue.
+
+2. I could make it better by incorperation a random number function and actually figuring out how to add the guess part.
