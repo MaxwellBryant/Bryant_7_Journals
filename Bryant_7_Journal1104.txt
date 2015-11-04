@@ -1,0 +1,8 @@
+1. A method is a group of code that holds everything together, like glue. I t can also be used for organizational purposes.
+
+2. I used a "playgame" method and of course, the mainn string. The "playgame" method allowed me to put the contents of the actual game into this method.
+
+3. A while loop will apply an action to something that is only true. For instance, puppies are cute is a true statement causing the while loop to trigger and send another message.
+
+4. I used a while loop to restart the game. I used a boolean to tell the game to stop once you have won. Finally, I ultimately didn't use a counter, but I would have used it for counting tries.
+
