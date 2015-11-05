@@ -1,0 +1,7 @@
+1. Strings are groups of info that feed information into the main program and to the rest of specified places.
+
+2. Strings are good for adding integers and booleans and being able to organize them all.
+
+3. Some string methods include the main and various specified strings. EX: public String(WhatAreThose WAT) {
+
+4. We can identify string methods through the power of observation. The string will most likely have "String" in it.
