@@ -1,0 +1,4 @@
+1. I would be ready to code my game if I hadn't totally jacked-up my graphic organizer. I plan to give the game a more simplistic design and a total face-lift.
+
+2. My biggest challenge will be the actual selection randomizer; basically something that will randomize what happens next from a selected action. EX: If character wants to kill, there will be output posibilities other than just death.
+
