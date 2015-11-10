@@ -1,0 +1,5 @@
+1. You would have to create a static int that counts everytime a phase is comepleted. I don't exactly know how to do this however...
+
+2. You can track your hp by making an int once again and create a counter that counts down from a base hp stat.
+
+3. You can track items through the same kind of thing for hp, but making individual items.
