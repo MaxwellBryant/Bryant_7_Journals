@@ -1,0 +1,5 @@
+1. In my game, the player must battle monsters in order with no breaks and then ultimately defeat the final boss. If you fail at any point in the game, it starts over.
+
+2. I don't have a clue as how to track whether or not if a player has completed a task. However, this is how humans learn, so I will be taught.
+
+3. I will name for an enemy, the health potions, and the food along with the attack system. I will have a play game class.
