@@ -1,0 +1,4 @@
+1. I will primarily use while loops when I want to end a game or stop a pathway of choice.
+
+2. I will use play methods and a method for every pathway because it is neat and organized.
+
