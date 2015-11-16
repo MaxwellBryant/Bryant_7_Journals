@@ -1,0 +1,3 @@
+1. I will use methods to separate from different questlines and tasks.
+One of the main values I will pass is your HP and the enemy's HP to all attack 
+methods. More OCD wise, I will use methods for easy location and use.
