@@ -1,0 +1,5 @@
+1. I feel that I was very successful with my game. I was able to do all of the 
+things that I wanted to do with it. For example, I was able to get an hp counter 
+and tracker for the enemy and myself. I was also able to have a working attack 
+system. The only thing I wasn't able to do because of time waws the hit/miss 
+ratio to make things more interesting.
