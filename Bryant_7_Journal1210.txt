@@ -1,0 +1,4 @@
+1. I would like to make a prison escape game in which you must find color-coded keys to open specific doors. 
+The difficult part is that you can only carry one key at a time. So you must stategically map and escape prison in a puzzle-type way! 
+The layout will have an aerial view of the prison, BUT at night it is dark so it will be dark. You will have a small diameter of light around you, 
+so this plays the aspect of good memory.
