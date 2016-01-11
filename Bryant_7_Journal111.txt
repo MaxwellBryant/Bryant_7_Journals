@@ -1,0 +1,3 @@
+1. With my game, you will have to walk through a dark prison as a prisoner and escape by picking up the correct keys for the correct door.
+
+2. I have no idea how to start my game, I need to incorporate movement, but I don't know how I am going to pick up keys, and use them on the proper doors.
