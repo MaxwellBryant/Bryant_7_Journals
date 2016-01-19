@@ -1,0 +1,7 @@
+1. I created a Prison Escape game is which you must find color-coded keys to unlock certain doors to the smell of freedom.
+
+2. I solved the challenge of creating the items and giving them certain qualities and putting the two together.
+
+3. I was able to finish 96% of my map, but I did finish the sprite sheets. All I really had to do was add a color-coded system.
+
+4. I was not able to meet the designated timeline, but if you stretched it, I did have a "working, testable" game by that time...
