@@ -1,0 +1,9 @@
+I have successfully created a game in which you can grab keys in a specific order and use them to unlock specific doors. I was very happy in knowing that I did that in the very least.
+
+My problem solving process consisted of these steps: 
+	1. Search the internet
+	2. Ask Mr. Davis
+	3. Ask friends
+	4. Ask more friends
+	5. Ask EVEN MORE friends
+	6. Give-up on life until the end of the period
