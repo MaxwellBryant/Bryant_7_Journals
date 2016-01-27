@@ -1,0 +1,3 @@
+1. I added an image through the power of a class extention. I added a new Java class and specified the details.
+
+2. The image is drawn where you call it in the render class. It is placed in the game via co-ordinates.
