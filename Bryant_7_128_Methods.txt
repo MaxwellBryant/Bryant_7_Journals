@@ -1,0 +1,2 @@
+This is a method because of the public void render stuff. However, this method does call class constructors like GameContainer, StateBasedGame, and Graphics. 
+This is also a method because of the void portion of it. This ensures that whatever is contained and put in can not be taken out by the game.
