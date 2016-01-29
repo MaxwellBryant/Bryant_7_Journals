@@ -1,0 +1,5 @@
+1. A class constructor is something within a class that helps create an item.
+
+2. A needed class constructor for the orb if we want it to attack would be an initial spawn point.
+
+3. The methods the orb should have is a private method and even a void method. This is so we don't confuse and mix-up the item where it shouldn't be.
