@@ -1,0 +1,1 @@
+I feel that I have Cleaned my code up quite well. I have separate classes for every item and I have OCD. I Alt + Shift + F'ed the heck out of the code everytime I added something to it. Therefore, IT IS MY OWN!
