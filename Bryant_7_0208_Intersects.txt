@@ -1,0 +1,2 @@
+1. You can check to see if enemies damage objects in the render class in which it checks to see where the hitbox is and checks to see if anything has intersected it.
+ You can add damage inflicted in the update class if you make an if statement intersecting hitboxes can take damage for an object.
