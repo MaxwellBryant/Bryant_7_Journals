@@ -1,0 +1,3 @@
+1. I used an array in my game to make items. The bars I used were in the same proximity to one another so I just had to re-position the second bar I had made for an entrance. These array list items were helpful so I didn't have to write another item code because they all do the same thing.
+
+2. You could possibly use an array to manage stormtroopers for the empire. They are all the same so it would be easy to improve all of their faces instead of one at a time; it's all about efficientcy.
