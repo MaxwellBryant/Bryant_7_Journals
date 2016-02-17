@@ -1,0 +1,21 @@
+1. Arrays are used for containing values of the same type; like a list.
+
+2. public int[] something = new int[];
+
+3. public String[] something = new String[];
+
+4. public boolean[] something = new boolean[];
+
+5. public double[] something = new double[];
+
+6. public int[] numbers = {42, 64, 87}		private int[] numbers = new int[0];
+
+7. public String[] names = {"Mike", "Max", "Bob", "Reid"}	private String[] names = new String[3];
+
+8. This code calls the string "dessert" and selects the third item in the list.
+
+9. This code shows an array called "postres" and shows the contents of rice pudding, pan dulce, and bunuelos.
+
+10. Question 8 calls an array item while question 9 is an array!
+
+11. private String[] postres = {"rice pudding", "pan dulce", "apple pie"}
