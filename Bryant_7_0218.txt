@@ -1,0 +1,17 @@
+1. This is the sprite frame by frame animation! First, it declares a new sprite sheet. Then, it specifies where to find the sheet. Lastly, It shows the frame by frame animation for the up movement.
+
+2. We are trying to practice troubleshooting/debugging. Which means that we can encounter any issue and fix it. Memorizing the Slick syntax would be "cheating".
+
+3. An array is basically a list of items that you can calll upon anywhere in the program, if you allow it.
+
+4. String[] Stuff = {"Computers", "Passwords", "Keyboards" };
+
+5. An array list is similar to an array, but primarily focuses on its ability to grow of shrink in size on values.
+
+6. public <ArrayList> Stuff = new ArrayList;
+
+7. Set, remove, and add methods were identified when creating the list.
+
+8. Like I said in question 5, an array holds values while array lists take it a step further and can be resized in value.
+
+9. In the Player class, you can define health points. In the main game, instansiate the health. Add a constant subtraction value if you so please, but whenever you take damage, you can subtract Player health with Player.hp -= 20;
