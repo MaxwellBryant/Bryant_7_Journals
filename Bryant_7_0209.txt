@@ -1,0 +1,1 @@
+1. You can make the movement happen with animations. I don't know how to do these things, but I'm sure I can find it in the code... Nope! I didn't find any animations for the orb. However, this just challenges me to find out!
