@@ -1,0 +1,11 @@
+public class Rat {
+	public String rats = new Rat; <-- This is declaration.
+		rats.getX(); vvv
+		rats.getY(); <-- This is instansation.
+	public String[] rats = {"Billy", "Morty", "Killer", "Pat", "Scrubby" };
+		rats[0].setLocation(100, 100);
+			rats[1].setLocation(200, 200);
+				rats[2].setLocation(300, 300);
+					rats[3].setLocation(400, 400);
+						rats[4].setLocation(500, 500);
+}
