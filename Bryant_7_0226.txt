@@ -1,0 +1,5 @@
+1. This code calls upon an array of maps. It looks like it will randomly choose a map, but also looks like a delta. If map i and j do not equal x, it prints ".". Else, it prints maps i and j.
+
+2. In one of the prints, take out the quotation marks and period and replace with x.
+
+3. Make a map with a five in it  and let her fly.
