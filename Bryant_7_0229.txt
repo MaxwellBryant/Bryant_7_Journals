@@ -1,0 +1,11 @@
+1. We can make a class with two simple words and a curly bracket... class Something {}.
+
+2. No, the code is not a class constructor, it merely declares Bismark as a new type of Donut.
+
+3. We can make a class with values likes this: class Stuff { Stuff MysteryHair = new Stuff(); this.isWeird = a; public boolean getMysteryHair() { return this.isWeird; } }
+
+4. A getter returns a variable value such as getting MysteryHair in my example above.
+
+5. A setter sets the value of an object or something else super cool.
+
+6. public String[] Breakfast = { "pancakes", "waffles", "bacon" };
