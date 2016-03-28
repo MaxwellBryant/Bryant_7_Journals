@@ -1,0 +1,11 @@
+1. I have noticed that Arduino is similar to Java. However, they differ because of Arduino's easier interface.
+
+2. Jude and I have made a piezo buzzer "bomb" in which we sync an LED with a piezo buzzer to make a counting down "bomb" noice.
+
+3. A circuit requires a plug-in to the positive and negative terminal.
+
+4. Programs can be compiled by Arduino by sending code through a USB into the breadboard.
+
+5. Jude and I have done about five of these projects. Starting from the simple LED light to the piezo buzzer. We will definitely have to up our game if we want to make something unique.
+
+6. Jude and I will take a crack at making a bomb game! The game will have two modes, and get progressively harder as you go along.
