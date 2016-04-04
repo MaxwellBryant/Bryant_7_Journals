@@ -1,0 +1,9 @@
+1. We have successfully have full control of the LED light and piezo buzzer. We have also made the LCD keep track of time left and the speed at which it is counting. However, I believe Jude and I will remove the speed portion... We have finally prepared the disarm buttons and are now ready to program.
+
+2. Like I said above, we need to program the disarm buttons and hopefully create levels. It would also love to clean the code up and make it great again.
+
+3. We will most likely be able to turn in the bomb game as one level. I could not promise cleaned up code, but we will have something nice/pretty legit.
+
+4. We are currently discussing whether or not to keep the time in the LCD. We are also refining the count system and making sure it is an entire second.
+
+5. We have created functions for the time, the LCD, and the LED. These functions alll correspond to make the beauty that is out game.
