@@ -1,0 +1,11 @@
+1. Assembly is a low-level program in which one can quickly compile code for things like OS design, device drivers, and enbedded systems programming.
+
+2. Assembly is great for speed and efficiency. For example, instead of straight-up writing C++, you could make a quick outline in Assembly.
+
+3. Assembly is much quicker and less detailed than Java is. If you wanted to make a complex game, use Java, if not, use Assembly.
+
+4. The main difference between high level and low level languages is that low level languages are very easy and fast for simple people while high level languages are for the more complex walks of life.
+
+5. Java is a 32-bit register while Assembly is a 16-bit register.
+
+6. Just look above, I combined the two.
