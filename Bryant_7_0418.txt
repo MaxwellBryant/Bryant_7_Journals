@@ -1,0 +1,27 @@
+1. ELF is an Executable and Linkable Format. This is the standard file format for executables, object code, and libraries.
+
+2. I don't know why I had used "ld". Perhaps it is a compiler for assembly and it stands for something.
+
+3. I do not know why I didn't have to use "chmod" to execute the program.
+
+4. global _start
+section .text
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1
+        mov     rdi, 1
+        mov     rsi, message
+        mov     rdx, 44
+        syscall
+
+        ; exit(0)
+        mov     eax, 60
+        xor     rdi, rdi
+        syscall
+
+message:
+        db      "My name is Maxwell, but you can call me Max.", 10
+
+5. I originally thought that the number after the message was the letter count. I soon found out that it was not the case. So then I talked to Jude and he told me what to do.
+
+6. A low-level language is truly just a language that you have to do EVERYTHING FOR. The computer doesn't do squat, you do it all.
