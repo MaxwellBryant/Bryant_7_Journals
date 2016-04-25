@@ -1,0 +1,19 @@
+1. Basic system.out.println memorization: If you know how to print text, you can rule the world.
+
+2. Linux commands: It's great to know how to move about your own computer via code!
+
+3. Data types: You need to know what you are programming when it comes to data types.
+
+4. Object-Oriented-Programming: Slick2D was great to learn this concept.
+
+5. Advanced problem solving with Java: I would honestly hate this to the bone.
+
+6. Cooperation: Because why not?
+
+7. Instantiation / encapsulation of objects: It's kind of repetitive, but I'm running out of ideas.
+
+8. Summerative essays: Yes, I puleralized "essay".
+
+9. Arduino: If I wanted to get a bad grade, this would be my downfall.
+
+10. "For" loops: This is almost essential to easy Java effecientcy.
