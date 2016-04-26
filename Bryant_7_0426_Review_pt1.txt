@@ -1,0 +1,7 @@
+Java: public static cubed(int num) { num = 3; return num * num * num; }
+
+Arduino: int number(int x) { return x * x * x; }
+
+Class Student: public class Student() { String test_scores; Student test_scores = new Student; }
+
+1. If we were going to continue with Arduino, I would create a piano. Not exactly all 72 keys, but perhaps one octave in a D Major scale. You could click and hold the note for as long as you want; eventually, you could make a song!
