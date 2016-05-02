@@ -1,0 +1,23 @@
+1. An array is a container object of sorts that holds a fixed number of values of the same type.
+
+2. String[][] strings = new String[5][3];
+
+3. The syntax is very similar to the code above. (Pretty much the same)
+
+4. The syntax for a 3-D array is almost the same, but is different from the 2-D array. Here is an example: String[][][] strings = new String[1][2][3];
+
+5. Using the example code from above, I can change the array values like this: strings[0][1][2] = "string1";
+
+6. While loops can sometimes be complicated, but in simple terms: A while loop is a condition check that keeps repeating until the given condition is false. For example: int x = 10; do { System.out.println(x); x++ } while (x < 20);
+
+7. The main reason I am using a while loop in my game was for movement. If the player has not won or lost, they can continue to move with the while loop.
+
+8. Most of my game is in the main method. However, I plan to develop my traps and the win system in separate methods.
+
+9. Well, instead of using ".toLowerCase()" I used the exact opposite. Due to my OCD, I wanted the letters to capitalize rather than to lower case.
+
+10. When a trap is placed, all you have to do is make a separate lose method, check for the player intersection with the trap, and BAM, you have yourself an intersection.
+
+11. If the game was just about movement, I wouldn't worry about traps. However, we do, and traps are part of the program here. Therefore, if we do not have an intersection checker with the player and the traps, the traps would be useless.
+
+12. We would pass booleans across methods. For example, if the player were to lose, you would set a boolean to lose = true. Then, it will take you to the lose method where the rest of the magic happens.
