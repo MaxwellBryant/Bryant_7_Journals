@@ -1,0 +1,15 @@
+1. The 'x' coordinate is the second listed number in the 2D array while the 'y' coordinate is the first. I do not know why this happens but it is most likely accosiated with the fact that the origin on a grid is in the top left corner.
+
+2. if (i = 0) { System.out.println("8888");	This checks to see if 'i' is equal to zero, it prints 8888. In other words, it prints 8888 on the coordinates (0, 1).
+
+3. System.out.print(map[i][j]);		This code prints the map. Depending on how big the map is, it will print/show the size.
+
+4. System.out.println(".");	This code prints a period ON THE LINE while line e's code prints a period AS THE MAP.
+
+5. System.out.pintln(map[i][j]);	This code is encapsulated within a for loop therefore, it is used to print the array after the first movement.
+
+6. In my array game, I used a while loop to establish a position of neutrality. For example: static boolean neutral = true; while (neutral) {...
+
+7. The use of the static modifier is a very simple thing to remember. Static makes a variable accessible by all other clases.
+
+8. You could use Object-Oriented Programming to put a sword in the game for example. With this object, I could stab myself with it and call it quits because I honestly don't know how I would do that.
