@@ -1,0 +1,28 @@
+class Hero {
+	int health = 100;
+	int power = 5;
+	int dexterity = 5;
+	int perception = 5;
+	int level = 1;
+	int x;
+	int y;
+	int z;
+	int score = 0;
+	boolean ifHasWeapon = false;
+}
+
+public hero(int x, int y) {
+	String hero = new Hero();
+	Scanner heroName = new Scanner(System.in);
+	System.out.println("What is your name?");
+	Scanner heroWeapon = new Scanner(System.in);
+	System.out.println("Okay, " + heroName + ", what weapon will you choose: A sword or bow?");
+		if(heroWeapon.contains("sword" || "bow")) {
+			ifHasWeapon = true;
+		}
+	Scanner heroxy = new Scanner(System.in);
+	System.out.println("Where do you want to spawn?");
+	x = heroxy;	y = heroxy;
+}
+
+I'm pretty sure somewhere in there I initialized the hero. However, you for sure to not want to initialize it in the class of it would break.
