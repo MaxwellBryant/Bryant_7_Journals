@@ -1,0 +1,1 @@
+1. What happens in nested for loops is that they execute at the same time. So, you can have multiple for loops for different things. For example, you could have one for loop for counting by 20's. Then, you could have a second embedded one that counts by 10's.
