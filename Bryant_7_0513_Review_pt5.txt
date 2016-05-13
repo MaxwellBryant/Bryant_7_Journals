@@ -1,0 +1,5 @@
+1. I happened to be a student that did not pay attention to this detail.
+
+2. Well, I did not notice because I wasn't exactly looking at the Slick code too carefully. I was so caught-up at the time that doomsday was enevitable.
+
+3. Object initialization, class constructors, creating arrays, methods, making traps, checks, for loops, win statements, and lose statements I believe will all be on the test. However, I truly hope I'm wrong because quite frankly, I don't want to die.
