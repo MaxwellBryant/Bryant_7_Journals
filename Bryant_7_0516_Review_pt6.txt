@@ -1,0 +1,9 @@
+1. Casting is another word for changing one object type to another. For example, the more commonly used down-casting involves taking an object and making it more specific. This would be like making a pie, then down-casting the pie into apple pie. However, up-casting is the exact opposite. It will cast a specific thing like a String into a braoder spectrum of things.
+
+2. Down-cast: Object stuff = "This is a sentence";	String life = (String)stuff;
+
+3. Up-cast: Sting life = "Life sucks, get a helmet.";	Object stuff = (Object)life;
+
+4. char c = 'char';	String strings;		strings = "" + char;
+
+5. -128 to 127 is the range for a byte. One is a negative value while zero is a positive value. So, 01111111 = +127 and 10000000 = -128. This is how it is because 1 byte = 8 bits.
