@@ -1,0 +1,10 @@
+1. public Life(int Food, int Water, int Fun) {
+	food = Food;	water = Water;	fun = Fun;
+
+2. Ogre1 = new OrgeArmy;
+
+3. pot = new Water(0, 0);	pot.setTemp(Water.Boiling);
+
+4. public static void Ogre() { int right = 1; int left = -1;		Ogre.right;
+
+5. String[] Ogre = new String[2];
